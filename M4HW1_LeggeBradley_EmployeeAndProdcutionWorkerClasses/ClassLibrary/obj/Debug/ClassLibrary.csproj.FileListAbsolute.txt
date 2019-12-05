@@ -1,0 +1,11 @@
+E:\Fall 19\CSC-253\Employee and ProdcutionWorker Classes\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\Fall 19\CSC-253\Employee and ProdcutionWorker Classes\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\Fall 19\CSC-253\Employee and ProdcutionWorker Classes\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+E:\Fall 19\CSC-253\Employee and ProdcutionWorker Classes\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\Fall 19\CSC-253\Employee and ProdcutionWorker Classes\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\Fall 19\CSC-253\Employee and ProdcutionWorker Classes\ClassLibrary\obj\Debug\ClassLibrary.pdb
+F:\Fall 19\CSC-253\Employee and ProdcutionWorker Classes\ClassLibrary\bin\Debug\ClassLibrary.dll
+F:\Fall 19\CSC-253\Employee and ProdcutionWorker Classes\ClassLibrary\bin\Debug\ClassLibrary.pdb
+F:\Fall 19\CSC-253\Employee and ProdcutionWorker Classes\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+F:\Fall 19\CSC-253\Employee and ProdcutionWorker Classes\ClassLibrary\obj\Debug\ClassLibrary.dll
+F:\Fall 19\CSC-253\Employee and ProdcutionWorker Classes\ClassLibrary\obj\Debug\ClassLibrary.pdb
