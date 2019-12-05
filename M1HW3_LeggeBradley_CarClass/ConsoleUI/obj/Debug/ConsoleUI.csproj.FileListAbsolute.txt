@@ -1,0 +1,10 @@
+E:\Fall 19\CSC-253\Car Class\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\Fall 19\CSC-253\Car Class\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\Fall 19\CSC-253\Car Class\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\Fall 19\CSC-253\Car Class\ConsoleUI\bin\Debug\AutoLibrary.dll
+E:\Fall 19\CSC-253\Car Class\ConsoleUI\bin\Debug\AutoLibrary.pdb
+E:\Fall 19\CSC-253\Car Class\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+E:\Fall 19\CSC-253\Car Class\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+E:\Fall 19\CSC-253\Car Class\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+E:\Fall 19\CSC-253\Car Class\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\Fall 19\CSC-253\Car Class\ConsoleUI\obj\Debug\ConsoleUI.pdb

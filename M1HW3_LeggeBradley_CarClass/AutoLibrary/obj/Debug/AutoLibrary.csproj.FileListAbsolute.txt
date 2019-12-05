@@ -1,0 +1,6 @@
+E:\Fall 19\CSC-253\Car Class\AutoLibrary\bin\Debug\AutoLibrary.dll
+E:\Fall 19\CSC-253\Car Class\AutoLibrary\bin\Debug\AutoLibrary.pdb
+E:\Fall 19\CSC-253\Car Class\AutoLibrary\obj\Debug\AutoLibrary.csprojAssemblyReference.cache
+E:\Fall 19\CSC-253\Car Class\AutoLibrary\obj\Debug\AutoLibrary.csproj.CoreCompileInputs.cache
+E:\Fall 19\CSC-253\Car Class\AutoLibrary\obj\Debug\AutoLibrary.dll
+E:\Fall 19\CSC-253\Car Class\AutoLibrary\obj\Debug\AutoLibrary.pdb
