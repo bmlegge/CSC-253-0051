@@ -1,0 +1,5 @@
+F:\Fall 19\CSC-253\EmployeeClass\ClassLibrary\bin\Debug\ClassLibrary.dll
+F:\Fall 19\CSC-253\EmployeeClass\ClassLibrary\bin\Debug\ClassLibrary.pdb
+F:\Fall 19\CSC-253\EmployeeClass\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+F:\Fall 19\CSC-253\EmployeeClass\ClassLibrary\obj\Debug\ClassLibrary.dll
+F:\Fall 19\CSC-253\EmployeeClass\ClassLibrary\obj\Debug\ClassLibrary.pdb

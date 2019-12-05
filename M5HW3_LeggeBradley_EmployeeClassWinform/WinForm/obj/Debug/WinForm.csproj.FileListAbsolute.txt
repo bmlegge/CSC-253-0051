@@ -1,0 +1,16 @@
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\bin\Debug\WinForm.exe.config
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\bin\Debug\WinForm.exe
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\bin\Debug\WinForm.pdb
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\bin\Debug\ClassLibrary.dll
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\bin\Debug\ConsoleUI.exe
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\bin\Debug\ClassLibrary.pdb
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\bin\Debug\ConsoleUI.pdb
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\bin\Debug\ConsoleUI.exe.config
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\obj\Debug\WinForm.Form1.resources
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\obj\Debug\WinForm.exe
+E:\Fall 19\CSC-253\EmployeeClass\WinForm\obj\Debug\WinForm.pdb
