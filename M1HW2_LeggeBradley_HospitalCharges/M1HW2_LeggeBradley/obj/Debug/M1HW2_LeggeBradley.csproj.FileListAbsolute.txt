@@ -1,0 +1,7 @@
+E:\Fall 19\CSC-253\M1HW2_LeggeBradley\M1HW2_LeggeBradley\obj\Debug\M1HW2_LeggeBradley.csprojAssemblyReference.cache
+E:\Fall 19\CSC-253\M1HW2_LeggeBradley\M1HW2_LeggeBradley\obj\Debug\M1HW2_LeggeBradley.csproj.CoreCompileInputs.cache
+E:\Fall 19\CSC-253\M1HW2_LeggeBradley\M1HW2_LeggeBradley\bin\Debug\M1HW2_LeggeBradley.exe.config
+E:\Fall 19\CSC-253\M1HW2_LeggeBradley\M1HW2_LeggeBradley\bin\Debug\M1HW2_LeggeBradley.exe
+E:\Fall 19\CSC-253\M1HW2_LeggeBradley\M1HW2_LeggeBradley\bin\Debug\M1HW2_LeggeBradley.pdb
+E:\Fall 19\CSC-253\M1HW2_LeggeBradley\M1HW2_LeggeBradley\obj\Debug\M1HW2_LeggeBradley.exe
+E:\Fall 19\CSC-253\M1HW2_LeggeBradley\M1HW2_LeggeBradley\obj\Debug\M1HW2_LeggeBradley.pdb
