@@ -1,0 +1,7 @@
+E:\Fall 19\CSC-253\RandomNumberFileWriter\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\Fall 19\CSC-253\RandomNumberFileWriter\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\Fall 19\CSC-253\RandomNumberFileWriter\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\Fall 19\CSC-253\RandomNumberFileWriter\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+E:\Fall 19\CSC-253\RandomNumberFileWriter\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+E:\Fall 19\CSC-253\RandomNumberFileWriter\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\Fall 19\CSC-253\RandomNumberFileWriter\ConsoleUI\obj\Debug\ConsoleUI.pdb
