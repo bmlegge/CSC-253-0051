@@ -1,0 +1,6 @@
+E:\Fall 19\CSC-253\RetailItem Class\RetailItem\bin\Debug\RetailItem.dll
+E:\Fall 19\CSC-253\RetailItem Class\RetailItem\bin\Debug\RetailItem.pdb
+E:\Fall 19\CSC-253\RetailItem Class\RetailItem\obj\Debug\RetailItem.csprojAssemblyReference.cache
+E:\Fall 19\CSC-253\RetailItem Class\RetailItem\obj\Debug\RetailItem.csproj.CoreCompileInputs.cache
+E:\Fall 19\CSC-253\RetailItem Class\RetailItem\obj\Debug\RetailItem.dll
+E:\Fall 19\CSC-253\RetailItem Class\RetailItem\obj\Debug\RetailItem.pdb
