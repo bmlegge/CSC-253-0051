@@ -1,0 +1,12 @@
+E:\Fall 19\CSC-253\M6HW1_LeggeBradley_PersonalDatabase\PersonnelDatabase\WindowsFormsUI\bin\Debug\Personnel.mdf
+E:\Fall 19\CSC-253\M6HW1_LeggeBradley_PersonalDatabase\PersonnelDatabase\WindowsFormsUI\bin\Debug\Personnel_log.ldf
+E:\Fall 19\CSC-253\M6HW1_LeggeBradley_PersonalDatabase\PersonnelDatabase\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe.config
+E:\Fall 19\CSC-253\M6HW1_LeggeBradley_PersonalDatabase\PersonnelDatabase\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe
+E:\Fall 19\CSC-253\M6HW1_LeggeBradley_PersonalDatabase\PersonnelDatabase\WindowsFormsUI\bin\Debug\WindowsFormsUI.pdb
+E:\Fall 19\CSC-253\M6HW1_LeggeBradley_PersonalDatabase\PersonnelDatabase\WindowsFormsUI\obj\Debug\WindowsFormsUI.csprojAssemblyReference.cache
+E:\Fall 19\CSC-253\M6HW1_LeggeBradley_PersonalDatabase\PersonnelDatabase\WindowsFormsUI\obj\Debug\WindowsFormsUI.Form1.resources
+E:\Fall 19\CSC-253\M6HW1_LeggeBradley_PersonalDatabase\PersonnelDatabase\WindowsFormsUI\obj\Debug\WindowsFormsUI.Properties.Resources.resources
+E:\Fall 19\CSC-253\M6HW1_LeggeBradley_PersonalDatabase\PersonnelDatabase\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.GenerateResource.cache
+E:\Fall 19\CSC-253\M6HW1_LeggeBradley_PersonalDatabase\PersonnelDatabase\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CoreCompileInputs.cache
+E:\Fall 19\CSC-253\M6HW1_LeggeBradley_PersonalDatabase\PersonnelDatabase\WindowsFormsUI\obj\Debug\WindowsFormsUI.exe
+E:\Fall 19\CSC-253\M6HW1_LeggeBradley_PersonalDatabase\PersonnelDatabase\WindowsFormsUI\obj\Debug\WindowsFormsUI.pdb
